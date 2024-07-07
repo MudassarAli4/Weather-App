@@ -9,6 +9,10 @@ A simple weather app that provides current weather information for any city. The
 - Dynamic background gradient changes based on weather condition
 - Error handling for invalid city names
 
+## Demo
+- This demo cannot display data due to issues with the API.
+- https://mudassarali4.github.io/Weather-App/
+
 ## Technologies Used
 
 ### HTML
